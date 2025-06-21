@@ -2,4 +2,4 @@ title: Bernardo Guterres
 #logo: /assets/img/headshot_circle.png
 #description: text below image
 show_downlaods: true
-theme jekyll-theme-minimal
+theme: jekyll-theme-minimal
