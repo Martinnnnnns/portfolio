@@ -122,14 +122,6 @@ Developed a comprehensive web platform for King's College London student organiz
 
 ---
 
-## 📈 GitHub Stats
-
-![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 
 I'm always interested in discussing new opportunities, collaborating on exciting projects, or simply connecting with fellow tech enthusiasts!
@@ -145,8 +137,6 @@ I'm always interested in discussing new opportunities, collaborating on exciting
 I'm actively seeking opportunities in:
 - **Data Science** roles where I can apply ML/AI to solve business problems
 - **Software Engineering** positions focusing on full-stack development
-- **Research** opportunities in Machine Learning and Computer Vision
-- **Internships** that offer hands-on experience with cutting-edge technologies
 
 ---
 
