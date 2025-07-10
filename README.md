@@ -108,8 +108,9 @@ Developed a comprehensive web platform for King's College London student organiz
 - **Higher Level**: Physics (7), Mathematics AA (6), Economics (7)
 
 ### Professional Certifications
-- **Machine Learning Specialization** - DeepLearning.AI (2024)
+- **Data Scientist** - Data Camp (2025)
 - **BCG Data Science Job Simulation** - Forage (2025)
+- **Machine Learning Specialization** - DeepLearning.AI (2024)
 - **JavaScript Coding** - iD Tech Camps (2022)
 
 ---
