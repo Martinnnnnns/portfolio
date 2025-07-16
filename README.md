@@ -19,9 +19,9 @@ Outside of the world of code, I'm an avid athlete with a passion for rock climbi
 
 ### Software Engineer Intern | Link Consulting
 **June 2025 - August 2025**
-- Developing software solutions using modern engineering practices and methodologies
-- Collaborating with cross-functional teams to deliver high-quality technical implementations
-- Contributing to enterprise-level projects utilizing various programming languages and frameworks
+- Developed AI-powered code migration platform using Next.js, React, and Claude API for PL/SQL to Spark SQL conversion
+- Built a web application with real-time streaming, file processing, and interactive data visualization
+- Delivered full-stack solutions for database modernization and legacy code analysis workflows
 
 ### Analyst | Minds of Tomorrow
 **June 2025 - Present**
